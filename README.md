@@ -2,6 +2,7 @@
 Hello its me ZhorifCraft451✨<br>
 I am a HTML, PHP, CSS, JavaScript Developer💻<br>
 I am working from home🏠<br>
+[Instagram](https://www.instagram.com/zhorif.sa)
 
 
 # My Stats
